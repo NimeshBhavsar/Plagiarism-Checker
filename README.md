@@ -6,6 +6,8 @@
 1) Venkateshwar Dhari Singh(2018A7PS0246H)
 2) Dhruv Maheshwari(2018A7PS0170H)
 3) Jatin Arora(2018A7PS0551H)
+4) Lokesh Mehra(2018A7PS0268H)
+5) Shubh Aggarwal(2018A3PS0525H)
 
 
 ## Prerequisites:
